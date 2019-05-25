@@ -12,3 +12,6 @@ binomical
 
 em
 EMアルゴリズム
+
+pp
+射影追跡
